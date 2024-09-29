@@ -8,5 +8,6 @@
   ],
   "env": {
     "NEXT_PUBLIC_API_URL": "https://ahmadyaqoob.com"
-  }
+  },
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
