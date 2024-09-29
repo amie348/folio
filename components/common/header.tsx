@@ -18,8 +18,8 @@ const Header = () => {
           <Image
             src="/logo.svg"
             alt="Logo - Ayush Singh"
-            width={22}
-            height={22}
+            width={28}
+            height={28}
           />
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>

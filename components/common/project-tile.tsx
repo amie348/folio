@@ -61,7 +61,7 @@ const ProjectTile = ({
 
   const renderDescription = (description: string): React.ReactNode => (
     <h2
-      className="text-lg z-10 tracking-wide font-medium"
+      className="text-lg z-11 tracking-wide font-medium"
       style={{ transform: "translateZ(0.8rem)" }}
     >
       {description}

@@ -40,7 +40,7 @@ const Footer = () => {
           }}
           href="/Ayush_Resume.pdf"
         ></Button>
-        <Button
+        {/* <Button
           classes="ml-3"
           type={ButtonTypes.WHITE}
           name="Let's Talk"
@@ -49,10 +49,10 @@ const Footer = () => {
             target: "_blank",
             rel: "noreferrer",
           }}
-        ></Button>
+        ></Button> */}
       </div>
       <h2 className="text-center text-sm sm:text-base mt-8">
-        Designed and Developed with ❤️ by Ayush
+        Designed and Developed with ❤️ by Ahmad
       </h2>
     </>
   );
