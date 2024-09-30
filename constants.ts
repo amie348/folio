@@ -35,11 +35,14 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I design and develop things",
-  "I develop modern frontend apps",
-  "I will automate your business",
-  "Expert in Digitilizing your business",
-  "I design dynamic user experience",
+  "I develop secure and efficient systems.",
+  "I engineer scalable web architectures.",
+  "I deliver robust and dynamic applications.",
+  "I design intuitive and responsive UIs.",
+  "I automate workflows with modern tech.",
+  "I build powerful full-stack applications.",
+  "I craft seamless digital solutions.",
+  "I create integrated, data-driven apps.",
 ];
 
 export const EMAIL = "ahmadyaqoob89@gmail.com";
