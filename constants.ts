@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ahmad Yaqoob 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -7,8 +7,8 @@
 export const METADATA = {
   title: "Portfolio | Ahmad Yaqoob",
   description:
-    "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+    "I bridge the gap between design and development. I take responsibility to craft an aesthetic Applications.",
+  siteUrl: "https://ahmadyaqoob.com/",
 };
 
 export const MENULINKS = [
