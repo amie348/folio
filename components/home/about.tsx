@@ -69,16 +69,16 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I am a passionate UI Engineer who bridges the gap between development
-        and design.{" "}
+        born with a passion for blending cutting-edge frontend design with
+        powerful backend architecture{" "}
       </span>
       <span
         className={`about-2 leading-tight ${
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I take responsibility to craft a good user experience using modern
-        frontend architecture.
+        I craft seamless digital experiences that drive innovation and user
+        satisfaction including fintech, and medtech.
       </span>
     </h1>
   );
