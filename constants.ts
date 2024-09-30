@@ -7,7 +7,7 @@
 export const METADATA = {
   title: "Portfolio | Ahmad Yaqoob",
   description:
-    "I bridge the gap between design and development. I take responsibility to craft an aesthetic Applications.",
+    "I bridge the gap between design and development. I take responsibility to craft aesthetic Applications.",
   siteUrl: "https://ahmadyaqoob.com/",
 };
 
