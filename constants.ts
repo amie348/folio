@@ -91,7 +91,7 @@ export const PROJECTS: IProject[] = [
     description: "For doctors to manage sleep apnea patients",
     gradient: ["#1F6582", "#1ABCFE"],
     url: "https://monitairhealth.com",
-    tech: ["typescript", "nestjs", "mongodb", "nest", "tailwind"],
+    tech: ["typescript", "nestjs", "mongodb", "next", "tailwind"],
   },
   {
     name: "Nowork AI ",
