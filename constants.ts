@@ -157,7 +157,6 @@ export const SKILLS = {
     "typescript",
     "react",
     "next",
-    "angular",
     "redux",
     "react query",
     "tailwind",
@@ -185,9 +184,7 @@ export const SKILLS = {
   other: [
     "git",
     "github",
-    "webpack",
     "aws",
-    "gcp",
     "nginx",
     "gpt",
     "twilio",
